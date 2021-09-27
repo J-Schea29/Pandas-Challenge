@@ -10,7 +10,8 @@ For this challenge, I analyzed trends in the data for standardized testing reult
 
 Which leads to my second takeaway, which is that more money per student does not necessarily equal better grades. Although there appears to be a sweet spot where grades are increased by greater spending, after this spots grades rapidly decline with increasing spending. Which makes me to wonder whether the spending per student can be truly said to be accurate (i.e. is the money going toward paying school adminstration salary or buy kids laptops for school.) Prehaps Charters are just more efficient with their money causing a greater real spending per student.
 
-money_per_student	average_reading_score	average_math_score	% Passed Reading	% Passed Math	% Passed						
+| money_per_student |	average_reading_score	| average_math_score | % Passed Reading |	% Passed Math |	% Passed |
+| -------- |:----------------------:|:-----------------:|:--------------:|:------------------:|:---------:|
 $584.80	83.892196	83.436210	96.459627	93.541501	90.273988
 $609.00	84.044699	83.839917	95.945946	94.594595	90.540541
 $633.40	82.120471	79.474551	87.468080	77.139934	68.476495
